@@ -105,7 +105,7 @@ def test_login_sucesso():
 
 Abaixo está um print da execução dos testes no terminal Ubuntu:
 
-![print do pytest](prints/testes-pytest-passed.png)
+![image](https://github.com/user-attachments/assets/52e34580-d146-46cd-9283-42732ed35a49)
 
 ---
 
